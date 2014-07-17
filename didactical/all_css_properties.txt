@@ -1,0 +1,71 @@
+    animation-delay
+
+   
+    box-shadow
+    box-sizing
+    caption-side
+    clip
+
+    content
+    counter-increment
+    counter-reset
+    cursor
+    direction
+    
+    empty-cells
+    filter
+    
+    hasLayout
+    hyphens
+    image-rendering
+
+    
+    
+    
+    opacity
+    orphans
+    outline
+    outline-color
+    outline-offset
+    outline-style
+    outline-width
+    
+    
+    page-break-after
+    page-break-before
+    page-break-inside
+
+    quotes
+    resize
+
+    scrollbar-3dlight-color
+    scrollbar-arrow-color
+    scrollbar-base-color
+    scrollbar-darkshadow-color
+    scrollbar-face-color
+    scrollbar-highlight-color
+    scrollbar-shadow-color
+    scrollbar-track-color
+    tab-size
+    table-layout
+    
+    
+    transform
+    transform-origin
+    transform-style
+    transition
+    transition-delay
+    transition-property
+    transition-timing-function
+    unicode-bidi
+    vertical-align
+
+    white-space
+    widows
+
+    word-break
+    word-spacing
+    word-wrap
+    writing-mode
+    
+    zoom
