@@ -4,6 +4,8 @@
 <html>
     <head>
         <meta charset="utf-8" />
+        <link rel="stylesheet" href="../css/reset.css">
+        <link rel="stylesheet" href="../css/common.css">
     </head>
     <body>
         <section>
