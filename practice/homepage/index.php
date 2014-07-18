@@ -1,9 +1,9 @@
-<?php @include_once('../settings.php'); ?>
 
 <!DOCTYPE html>
 
 <html>
     <head>
+        <meta charset="utf-8" />
     </head>
     <body>
         <section>

@@ -1,1 +1,10 @@
 /*Отступы, таблицы, прочее дерьмо. margin padding*/
+* {
+	margin: 0;
+	padding: 0;
+}
+
+table{
+	border-collapse: 0;
+	border: 0;
+}
