@@ -1,5 +1,33 @@
+
+#logo_img {
+  float: left;
+}
+
+
 #search {
-	padding:8px 15px;
-    background:rgba(50, 50, 50, 0.2);
-    border:0px solid #dbdbdb;
+    margin: 0.3%;
+    text-align: right;
+    /*margin-left: 30%;*/
+    display: inline;
+    /*vertical-align: middle;*/
+    clear: left;
+    
+}
+
+#search input {
+    
+    /*background: url("../../images/glass.png") no-repeat left;*/
+}
+.clear {
+    clear: all;
+}
+
+#menu ul{
+  margin-top:1%;
+}
+
+
+#menu ul li {
+  display: inline;
+  padding: 0.5%;
 }

@@ -1,0 +1,32 @@
+#links {
+    clear: left;
+    background-color: #f77;
+    
+}
+#bottom_header {
+    margin-top: 3%;
+    margin-left: 5%;
+
+}
+#links_block{
+    margin: 1% 5%;
+    
+}
+
+#links_block div {
+    margin-right: 25%;
+    position: relative;
+    display: inline-block;
+    vertical-align: top;
+}
+
+#links_block div:last-child {
+    position: relative;
+    text-align: center;
+    display: inline-block;
+    margin: 0%;
+    vertical-align: top;
+}
+#links ul li {
+    list-style-type: none;
+}

@@ -8,5 +8,5 @@
 </p>
 </div>
 <div id="blue_image">
-    <img src="blue_image.jpg" />
+    <img src="../images/picture.jpg" />
 </div>

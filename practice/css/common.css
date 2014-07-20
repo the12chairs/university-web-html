@@ -1,2 +1,11 @@
 /*Шрифты*/
 @import url("../layout/header/style.css");
+@import url("../layout/gray_block/style.css");
+@import url("../layout/blue_block/style.css");
+@import url("../layout/gallery/style.css");
+@import url("../layout/links/style.css");
+
+#header {
+    margin-left: 5%;
+    margin-right: 5%;
+}

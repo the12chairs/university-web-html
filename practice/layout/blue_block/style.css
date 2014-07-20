@@ -1,0 +1,22 @@
+#blue_block {
+    clear: left;
+    background-color: blue;
+}
+
+#big_text {
+    position: relative;
+    width: 40%;
+    padding-left: 5%;
+    float: left;
+}
+
+#blue_image{
+    
+    position:relative;
+    margin-left: 70%;
+    /*float: right;  */
+}
+
+#blue_block h2 {
+    margin: 1% 5%;
+}

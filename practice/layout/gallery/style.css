@@ -1,0 +1,18 @@
+#gallery{
+    margin: 0% 5%;
+    clear: right;
+    
+    
+}
+#pics {
+
+}
+.small {
+    margin-right: 23%;
+    float: left;
+    margin-bottom: 2%;
+}
+.no-margin{
+    margin:0;
+    float:left;
+}

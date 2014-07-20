@@ -1,39 +1,40 @@
 <h2>Лучшие фотографии</h2>
-<div id = "gallery">
-    <figure>
+<div id = "pics">
+    <figure class="small">
         <p>
-            <img src="../../gallery/1.jpg" alt="First" />
+            <img src="../images/picture.jpg" alt="First" />
         </p>
         <figcaption>Петя Петров, Москва</figcaprion>
     </figure>
-    <figure>
+    <figure class = "small">
         <p>
-            <img src="../../gallery/2.jpg" alt="Second" />
+            <img src="../images/picture.jpg" alt="Second" />
         </p>
         <figcaption>Вася Иванов, Москва</figcaption>
     </figure>
-    <figure>
+    <figure class = "no-margin">
         <p>
-            <img src="../../gallery/3.jpg" alt="Third" />
+            <img src="../images/picture.jpg"" alt="Third" />
         </p>
         <figcaption>Петя Петров, Москва</figcaption>
     </figure>
-    <figure>
+    
+    <figure class = "small">
         <p>
-            <img src="../../gallery/4.jpg" alt="Fourth" />
+            <img src="../images/picture.jpg" alt="Fourth" />
         </p>
         <figcaption>Вася Иванов, Москва</figcaption>
     </figure>
-    <figure>
+    <figure class = "small">
         <p>
-            <img src="../../gallery/5.jpg" alt="Fifth" />
+            <img src="../images/picture.jpg" alt="Fifth" />
         </p>
         <figcaption>Петя Петров, Москва</figcaption>
     </figure>
-    <figure>
+    <figure class = "no-margin">
         <p>
-            <img src="../../gallery/6.jpg" alt="Sixth" />
+            <img src="../images/picture.jpg" alt="Sixth" />
         </p>
         <figcaption>Вася Иванов, Москва</figcaption>
     </figure>
-</div
+</div>
