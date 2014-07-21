@@ -10,3 +10,4 @@
 <div id="blue_image">
     <img src="../images/picture.jpg" />
 </div>
+<div class="clear"></div>
