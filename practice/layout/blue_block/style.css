@@ -1,6 +1,7 @@
 #blue_block {
     clear: left;
     background-color: blue;
+    padding-bottom: 1%;
 }
 
 #big_text {
@@ -19,7 +20,8 @@
 }
 
 #blue_block h2 {
-    margin: 1% 5%;
+    padding-top: 1%;
+    margin: 0 5%;
 }
 
 .clear {
