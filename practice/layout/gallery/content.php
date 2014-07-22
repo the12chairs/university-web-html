@@ -2,38 +2,38 @@
 <div id = "pics">
     <figure class="small">
         <p>
-            <img src="../images/picture.jpg" alt="First" />
+            <img src="../images/picture.jpg" alt="First" class="gimage"/>
         </p>
         <figcaption>Петя Петров, Москва</figcaprion>
     </figure>
     <figure class = "small">
         <p>
-            <img src="../images/picture.jpg" alt="Second" />
+            <img src="../images/picture.jpg" alt="Second" class="gimage"/>
         </p>
         <figcaption>Вася Иванов, Москва</figcaption>
     </figure>
     <figure class = "no-margin">
         <p>
-            <img src="../images/picture.jpg"" alt="Third" />
+            <img src="../images/picture.jpg" alt="Third" class="gimage"/>
         </p>
         <figcaption>Петя Петров, Москва</figcaption>
     </figure>
     
-    <figure class = "small">
+    <figure class = "small clearb">
         <p>
-            <img src="../images/picture.jpg" alt="Fourth" />
+            <img src="../images/picture.jpg" alt="Fourth" class="gimage"/>
         </p>
         <figcaption>Вася Иванов, Москва</figcaption>
     </figure>
     <figure class = "small">
         <p>
-            <img src="../images/picture.jpg" alt="Fifth" />
+            <img src="../images/picture.jpg" alt="Fifth" class="gimage"/>
         </p>
         <figcaption>Петя Петров, Москва</figcaption>
     </figure>
     <figure class = "no-margin">
         <p>
-            <img src="../images/picture.jpg" alt="Sixth" />
+            <img src="../images/picture.jpg" alt="Sixth" class="gimage"/>
         </p>
         <figcaption>Вася Иванов, Москва</figcaption>
     </figure>

@@ -1,6 +1,6 @@
 #gallery{
     margin: 0% 5%;
-    clear: right;
+    clear: both;
     
     
 }
@@ -8,11 +8,21 @@
 
 }
 .small {
-    margin-right: 32%;
+	width:33%;
     float: left;
     margin-bottom: 2%;
 }
+
 .no-margin{
     margin:0;
     float:left;
+    width: 33%;
+}
+
+.gimage {
+	width: 100%;
+	height: auto;
+}
+.clearb {
+	clear: both;
 }

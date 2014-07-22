@@ -10,24 +10,24 @@
 
   <div id = "under_gray">
     <div class = "small_block">
-      <div class = "little_image">
-	<img src="../images/picture.jpg" />
+      <div>
+	<img src="../images/picture.jpg" class = "little_image"/>
       </div>
       <div class = "dest">
-	<p>Направление 1</p>
+	       <p>Направление 1</p>
       </div>
 
       <div class="gray_text">
-	Текст
+	       Текст
       </div>
     </div>
 
     <div class = "small_block">
-      <div class = "little_image">
-	<img src="../images/picture.jpg" />
+      <div>
+	<img src="../images/picture.jpg" class = "little_image"/>
       </div>
       <div class = "dest">
-	<p>Направление 1</p>
+	       <p>Направление 1</p>
       </div>
 
       <div class="gray_text">
@@ -35,8 +35,8 @@
       </div>
     </div>
     <div class = "small_block">
-      <div class = "little_image">
-	<img src="../images/picture.jpg" />
+      <div>
+	<img src="../images/picture.jpg" class = "little_image" />
       </div>
       <div class = "dest">
 	<p>Направление 1</p>
@@ -47,5 +47,6 @@
       </div>
     </div>
   </div>
-    
+    <div class = "clear"> </div>
 </div>
+
